@@ -1,0 +1,7 @@
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\obj\Debug\Algorithms Task.csprojAssemblyReference.cache
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\obj\Debug\Algorithms Task.csproj.CoreCompileInputs.cache
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\bin\Debug\Algorithms Task.exe.config
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\bin\Debug\Algorithms Task.exe
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\bin\Debug\Algorithms Task.pdb
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\obj\Debug\Algorithms Task.exe
+C:\Users\102051563\source\repos\Algorithms Task\Algorithms Task\obj\Debug\Algorithms Task.pdb
